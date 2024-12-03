@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # @edu-able/server-github
 
 GitHub server implementation for Edu-able platform.
@@ -45,3 +46,6 @@ npm login --registry=https://npm.pkg.github.com
 ```bash
 npm publish
 ``` 
+=======
+# server-github
+>>>>>>> 5c716b802ef8b036aa2ae766ea0318e3d80ff039
